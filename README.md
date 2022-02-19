@@ -1,7 +1,6 @@
 ## 
 
-
-- 🔭 I’m currently working Devops
+- 🔭 I’m currently working SRE in Zup Innovation
 - 📫 How to reach me: renato.afs@gmail.com
    
 ##                                                                                                                                            
